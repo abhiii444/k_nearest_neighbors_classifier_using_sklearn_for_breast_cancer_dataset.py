@@ -1,0 +1,2 @@
+# k_nearest_neighbors_classifier_using_sklearn_for_breast_cancer_dataset.py
+This project demonstrates the implementation of a K-Nearest Neighbors (KNN) Classifier using Scikit-learn. It covers the complete machine learning workflow, including data loading, exploratory data analysis , preprocessing, feature scaling, model training with different values of k model evaluation, and saving the trained model using a pipeline.
